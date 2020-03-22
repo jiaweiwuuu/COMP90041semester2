@@ -5,9 +5,12 @@ Name: Jiawei Wu
 
 Email: jiawei.wu3@unimelb.edu.au
 
+Git: https://github.com/jiaweiwuuu/COMP90041semester1
+
+	 I will upload the materials, source code to Git after tutorials.
+
 About myself: The third semester, master of IT
 
 			  Backend developer, java, golang, python
 
 			  Came back to Melbourne last Monday, remain self-isolated
-			  
